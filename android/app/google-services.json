@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "87803571670",
+    "project_id": "bibproject-83cd0",
+    "storage_bucket": "bibproject-83cd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87803571670:android:ec4fbe7738f412a376c877",
+        "android_client_info": {
+          "package_name": "com.example.bibproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87803571670-35g0aoo2iqpkpkqsf1b1uhvpp5eci1mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bibproject",
+            "certificate_hash": "50293a383215ced5f29709db241051048dc37edb"
+          }
+        },
+        {
+          "client_id": "87803571670-ul0ft4a3kdcrsg1tnrn1e1fj498gc2s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZ4NAcXqk9P-SNmkmMkU6RdEdw5qNcnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87803571670-ul0ft4a3kdcrsg1tnrn1e1fj498gc2s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
